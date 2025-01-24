@@ -1,0 +1,8 @@
+Flask
+flask_SqlAlchemy
+PyMysql 
+Pandas
+NumPy
+matplotlib
+cryptography
+Flask-Mail
